@@ -24,7 +24,7 @@ This is my **B.Sc Computer Science final year project** submitted to **Ayyan Thi
 The complete project report is available here: [Project-Report.pdf](./docs/Project-Report.pdf)
 
 ---
-**Developed by:** Ishwarya M  
+**Developed by:** Ishwarya P
 **Department:** Computer Science  
 **College:** Ayyan Thiruvalluvar College of Arts and Science  
 **Year:** 2024-2025
