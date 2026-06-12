@@ -15,6 +15,30 @@ This is my **B.Sc Computer Science final year project** submitted to **Ayyan Thi
 - **Cross-Platform:** Works smoothly on both Android and iOS
 - **Responsive UI:** Clean, interactive user interface
 
+---
+
+## 🔥 Day 3 - My First Laptop Java Program
+
+**Date:** 12 June 2026  
+**Milestone:** Mobile to Laptop journey complete 👑
+
+**What I Did:**
+1. Installed JDK 26 on Windows laptop
+2. Set up VS Code + Java Extension  
+3. Fixed 6 compilation errors
+4. Ran my first Java program successfully
+
+**Code Output:**
+```
+En peru enna da?
+ishwarya
+Vanakkam ishwarya!Nee Laptop la Java Odavachita!
+```
+
+**Status:** Coder Azhagi Officially Born 💙
+
+---
+
 ### 🛠️ Tech Stack
 - **Frontend:** React Native
 - **Backend:** FastAPI (Python)
